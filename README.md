@@ -4,5 +4,5 @@
   </li>
 
 <li>As a starting point, ninjacart has provided us with a dataset scraped from the web which contains train and test folders, each having 4 sub-folders with images of onions, potatoes, tomatoes and some market scenes. We have been tasked with preparing a multiclass classifier for identifying these vegetables
-</li>l
+</li>
 </ul>
